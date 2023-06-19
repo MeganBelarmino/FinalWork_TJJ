@@ -1,6 +1,8 @@
 # FinalWork_TJJ
 The Jeepney Journey website
 
-I really tried making a website before the deadline. I started very very late so I was not able to ask anyone other than the internet.
-I got a problem firsthand with my repository which is not that great and tried solving it but nothing worked that Stackoverflow was advising.
-I really tried...
+Mabuhay! Welcome to The Jeepney Journey homepage!
+
+I tried making a website using a Hugo framework before the deadline. It was recommended to me as I didn't have much time.
+Then the trouble started again, I was facing a problem regarding my repository with an error "git: unknown switch b".
+I started very very late so I was not able to ask anyone other than the Internet but nothing worked. I tried solving it but nothing worked that Stackoverflow was advising. I tried... I really did.
